@@ -4,7 +4,6 @@ public class ProjetoLivraria {
         Livro livro1 = new Livro();
         Livro livro2 = new Livro();
 
-        // Acesso aos atributos (seria melhor usar métodos setters)
         livro1.titulo = "Senhor dos Mistérios, Vol. 1: O Palhaço, Parte 1";
         livro1.numeroPaginas = 580;
         livro1.anoPublicacao = 2025;
